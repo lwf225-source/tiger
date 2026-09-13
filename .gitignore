@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.coverage
+.pytest_cache/
+build/
+dist/
+.codex_work/
+.codegraph/
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+.DS_Store
+output/
